@@ -32,6 +32,20 @@ A list of Ophthalmology imaging datasets
 - [MultDiseases](#MultDiseases)
 
 
+## Browse Datasets
+
+Explore ophthalmology datasets by different categories.
+
+| Category | Description |
+|---|---|
+| [By Disease](browse/disease.md) | Browse datasets by disease or clinical condition |
+| [By Modality](browse/modality.md) | Browse datasets by imaging modality |
+| [By Task](browse/task.md) | Browse datasets by machine learning task |
+
+For detailed tagging definitions, see the [Tagging Standard](TAG_SCHEMA.md).
+
+---
+
 
 ## Ophthalmology_dataset
 
