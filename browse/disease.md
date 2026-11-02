@@ -6,5 +6,5 @@
 
 | Dataset | Modality | Disease | Task | Access |
 |---|---|---|---|---|
-| [PAPILA](../datasets/PAPILA.md) | Fundus Photography | Glaucoma | Classification; Segmentation | pen |
+| [PAPILA](../datasets/PAPILA.md) | Fundus Photography | Glaucoma | Classification; Segmentation | Open |
 

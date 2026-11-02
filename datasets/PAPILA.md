@@ -1,29 +1,27 @@
 # PAPILA
 
-## Dataset Information
+[← Back to Home](../README.md)
 
-PAPILA is an ophthalmology dataset for glaucoma research.
+## Basic Information
 
-## Tags
-
-**Modality:** Fundus Photography
-
-**Anatomy:** Optic Disc / Cup
-
-**Disease / Condition:** Glaucoma
-
-**Task:** Classification, Segmentation
-
-**Data Type:** 2D Image
-
-**Annotation Type:** Diagnosis, Pixel Mask
-
-**Data Structure:** Multi-view
-
-**Clinical Setting:** Diagnosis
+| Field | Value |
+|---|---|
+| Full Name | PAPILA: Dataset with fundus images and clinical data |
+| Year | 2022 |
+| Modality | Fundus Photography |
+| Anatomy | Optic Disc / Cup |
+| Disease / Condition | Glaucoma |
+| Task | Classification; Segmentation |
+| Data Type | 2D Image |
+| Annotation Type | Diagnosis; Pixel Mask |
+| Data Structure | Multi-view |
+| Clinical Setting | Diagnosis |
+| Size | 488 fundus images |
+| Patients / Eyes | 244 patients |
+| Access | Open |
 
 ## Resources
 
-- Dataset:
-- Paper:
-- Code:
+- Dataset Website: Not available
+- Paper: Not available
+- Code: Not available
