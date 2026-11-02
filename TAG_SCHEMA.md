@@ -216,15 +216,16 @@ as classification tags.
 
 ## Access
 
-Use one of the following standardized access labels:
+The Access field describes how users can obtain the dataset.
 
-- Open
-- Registration Required
-- Request Required
-- Challenge / Competition Access
-- Restricted
-- Unavailable
-- Unknown
+| Value | Description |
+|---|---|
+| Open | Publicly available without registration or approval |
+| Registration | Requires account registration |
+| Request | Requires an application or permission |
+| Unknown | Access conditions have not been verified |
+
+
 
 ---
 
